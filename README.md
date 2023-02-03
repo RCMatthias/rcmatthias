@@ -44,7 +44,7 @@ Hey, I’m Matthias. I'm a Belgian living in France. I have an MA in Linguistics
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<a href="https://www.linkedin.com/in/matthias-van-de-velde/">
+<a href="https://www.linkedin.com/in/matthias-van-de-velde-4999b893/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
