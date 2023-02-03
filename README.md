@@ -47,7 +47,3 @@ Hey, I’m Matthias. I'm a Belgian living in France. I have an MA in Linguistics
 <a href="https://www.linkedin.com/in/matthias-van-de-velde-4999b893/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-
-<a href="https://discordapp.com/users/556559991062921217">
-  <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-</a>
