@@ -2,7 +2,13 @@
 🖥 <a href="https://www.mvdv.dev">My portfolio website</a>
 
 ## About Me 
-Hey, I’m Matthias, a Belgian dev living in France. I have an MA in Linguistics with a lifelong passion for anything tech-related, and I'm a self-taught front-end developer. I started out learning HTML, CSS and JavaScript and I am currently learning TypeScript and React while deepening my understanding of system design. You can find my most noteworthy projects below in the "Pinned" section. Feel free to follow me or reach out to me regarding questions, feedback, criticism (which is much appreciated), job offers or quite literally *anything* else. 
+I’m a versatile professional with a unique blend of expertise in computational linguistics, data engineering, and software development. My career journey spans cutting-edge natural language understanding (NLU) systems, in-depth data analysis, and innovative web development projects. Currently, I’m leveraging my skills to transition fully into data engineering, where I can combine my passion for problem-solving with my technical acumen.
+
+In my role as an NLU Developer at Cerence, I trained and optimized machine learning models, improved accuracy by up to 30%, and automated complex data workflows. My hands-on experience with tools like Python, Bash, and SQL complements my deep understanding of data pipelines and ETL processes. My technical skills also extend to building scalable web solutions, as evidenced by my work on e-commerce platforms, integrating user-friendly designs with robust backend architectures.
+
+I thrive in collaborative environments, drawing on my background in teaching and multicultural projects to communicate effectively across teams. Whether I’m coding, analyzing data, or brainstorming creative solutions, I bring adaptability, precision, and a drive for excellence to every challenge.
+
+Let’s connect if you’re looking for someone with the technical depth and creativity to transform data into actionable insights.
 
 ## My Tech Stack
 
